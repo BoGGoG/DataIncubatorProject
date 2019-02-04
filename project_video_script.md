@@ -6,7 +6,8 @@ I am Marco and my project is answering those and more questions by analyzing var
 - A huge Linkedin data set
 - Google trends
 - Glasshouse employee satisfaction rates
-- and the stock market price
-In order to build a model for effective prediction of how your actions on Linkedin can
-affect your company, I propose first only looking at your company and later in the project to
+- and the stock market price.
+
+In order to build a model for effective prediction of how your actions on for example Linkedin can
+affect your company, I propose first only looking at data that directly concerns your company and later in the project to
 build a hierarchical model to also include information from other companies in your industry.
